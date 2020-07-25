@@ -1,0 +1,1 @@
+It's very simple php script. Just import `form.sql` into your MySQL database. And, configure your MySQL at `config.php`. That's it.
